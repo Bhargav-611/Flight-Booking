@@ -515,6 +515,7 @@ int main()
 
         case 3:
             break;
+            break;
 
         case 4:
             break;
